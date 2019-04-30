@@ -16,7 +16,7 @@ Once the baby is born the app will continue to serve as a hub of information for
 ## Starting Up
 
 ### [Install MongoDb](https://treehouse.github.io/installation-guides/mac/mongo-mac.html "Install MongoDb")
-### [Install React Native CLI & Xcode] (https://facebook.github.io/react-native/docs/getting-started "Install React-Native")
+### [Install React Native CLI](https://facebook.github.io/react-native/docs/getting-started "Install React-Native") & Xcode
 
 ### While mongo is running:
 `cd Server
