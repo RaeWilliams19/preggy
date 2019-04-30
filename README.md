@@ -28,4 +28,4 @@ npm start`
 npm i
 react-native run-ios`
 
-####The red button, "Ta bort Användardata", in the drawer menu is for development mode only. In order to remove all stored user data from asyncStorage
+#### The red button, "Ta bort Användardata", in the drawer menu is for development mode only. In order to remove all stored user data from asyncStorage
