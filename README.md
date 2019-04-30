@@ -19,13 +19,17 @@ Once the baby is born the app will continue to serve as a hub of information for
 ### [Install React Native CLI](https://facebook.github.io/react-native/docs/getting-started "Install React-Native") & Xcode
 
 ### While mongo is running:
-`cd Server
+~~~~
+cd Server
 npm i
-npm start`
+npm start
+~~~~
 
 ### In a new terminal tab: 
-`cd Preggy
+~~~~
+cd Preggy
 npm i
-react-native run-ios`
+react-native run-ios
+~~~~
 
 #### The red button, "Ta bort Användardata", in the drawer menu is for development mode only. In order to remove all stored user data from asyncStorage
