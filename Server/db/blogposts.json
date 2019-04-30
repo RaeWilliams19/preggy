@@ -3,13 +3,13 @@
     "week": 17,
     "blogger": "Michaela Forni",
     "url": "https://forni.se/livsstil/graviditet/vecka-for-vecka/min-graviditet-vecka-17/",
-    "image": "https://forni.se/wp-content/uploads/2019/04/IMG_4948-e1554131798494.jpg"
+    "image": "https://forni.se/wp-content/uploads/2019/02/IMG_4361.jpg"
   },
   {
     "week": 18,
     "blogger": "Michaela Forni",
     "url": "https://forni.se/livsstil/graviditet/vecka-for-vecka/min-graviditet-vecka-18/",
-    "image": "https://forni.se/wp-content/uploads/2019/04/IMG_4948-e1554131798494.jpg"
+    "image": "https://forni.se/wp-content/uploads/2019/02/Rityta_1.jpg"
   },
   {
     "week": 19,
@@ -67,15 +67,33 @@
   },
   {
     "week": 27,
+    "blogger": "Michaela Forni",
+    "url": "https://forni.se/livsstil/graviditet/vecka-for-vecka/min-graviditet-vecka-27/",
+    "image": "https://forni.se/wp-content/uploads/2019/04/IMG_4948-e1554131798494.jpg"
+  },
+  {
+    "week": 27,
     "blogger": "Kenza",
     "url": "http://kenzas.se/2019/02/28/pregnancy-week-27/",
     "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
   },
   {
     "week": 28,
+    "blogger": "Michaela Forni",
+    "url": "https://forni.se/livsstil/graviditet/vecka-for-vecka/min-graviditet-vecka-28/",
+    "image": "https://forni.se/wp-content/uploads/2019/04/IMG_4948-e1554131798494.jpg"
+  },
+  {
+    "week": 28,
     "blogger": "Kenza",
     "url": "http://kenzas.se/2019/03/07/pregnancy-week-28/",
     "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
+  },
+  {
+    "week": 29,
+    "blogger": "Michaela Forni",
+    "url": "https://forni.se/livsstil/graviditet/vecka-for-vecka/min-graviditet-vecka-29/",
+    "image": "https://forni.se/wp-content/uploads/2019/04/IMG_4948-e1554131798494.jpg"
   },
   {
     "week": 29,
@@ -99,6 +117,24 @@
     "week": 32,
     "blogger": "Kenza",
     "url": "http://kenzas.se/2019/04/04/pregnancy-week-32/",
+    "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
+  },
+  {
+    "week": 33,
+    "blogger": "Kenza",
+    "url": "http://kenzas.se/2019/04/11/pregnancy-week-33/",
+    "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
+  },
+  {
+    "week": 34,
+    "blogger": "Kenza",
+    "url": "http://kenzas.se/2019/04/18/pregnancy-week-34/",
+    "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
+  },
+  {
+    "week": 35,
+    "blogger": "Kenza",
+    "url": "http://kenzas.se/2019/04/25/pregnancy-week-35/",
     "image": "http://kenzas.se/wp-content/uploads/2019/04/KenzaZouitenSubosic_denimlook-1.jpg"
   }
 ]
